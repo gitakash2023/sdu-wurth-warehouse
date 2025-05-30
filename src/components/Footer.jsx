@@ -62,11 +62,13 @@ const Footer = () => {
           </Typography>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 1 }}>
             <LocationOnIcon fontSize="small" sx={{ color: '#0277bd' }} />
-            <Typography variant="body2" color="#000">3575 Fake Buena Vista Avenue</Typography>
+            <Typography variant="body2" color="#000">Jordan International Transport
+64B Benburb Road, Moy, Co Tyrone,
+BT71 7EZ</Typography>
           </Box>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 1 }}>
             <PhoneIcon fontSize="small" sx={{ color: '#0277bd' }} />
-            <Typography variant="body2" color="#000">+1 555-555-5556</Typography>
+            <Typography variant="body2" color="#000">028 8778 9431</Typography>
           </Box>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
             <EmailIcon fontSize="small" sx={{ color: '#0277bd' }} />

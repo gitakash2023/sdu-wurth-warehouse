@@ -188,9 +188,9 @@ const LatestJobs = () => {
               <Typography variant="body2" sx={{ color: '#555' }}>
                 <strong>Location:</strong> {job.location}
               </Typography>
-              <Typography variant="body2" sx={{ color: '#555' }}>
+              {/* <Typography variant="body2" sx={{ color: '#555' }}>
                 <strong>Salary:</strong> {job.salary}
-              </Typography>
+              </Typography> */}
 
               <Box sx={{ mt: 2 }}>
                 <Typography variant="body2" sx={{ color: '#555' }}>

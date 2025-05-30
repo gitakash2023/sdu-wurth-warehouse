@@ -87,11 +87,13 @@ const ContactUs = () => {
                 <Divider sx={{ mb: 2, borderColor: primaryAccent }} />
                 <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
                   <LocationOnIcon sx={{ mr: 2, color: primaryAccent }} />
-                  <Typography>3575 Fake Buena Vista Avenue</Typography>
+                  <Typography>Jordan International Transport
+                  64B Benburb Road, Moy, Co Tyrone,
+                  BT71 7EZ</Typography>
                 </Box>
                 <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
                   <PhoneIcon sx={{ mr: 2, color: primaryAccent }} />
-                  <Typography>+1 555-555-5556</Typography>
+                  <Typography>028 8778 9431</Typography>
                 </Box>
                 <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
                   <EmailIcon sx={{ mr: 2, color: primaryAccent }} />
